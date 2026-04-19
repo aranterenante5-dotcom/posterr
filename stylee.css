@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background: teal;
+    color: #fff;
+    font-family: arial,sans-serif;
+}
+.text-container{
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid;
+    text-align: center;
+    margin: 0 auto;
+}
